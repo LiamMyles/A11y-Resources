@@ -57,6 +57,11 @@ Hopefully this list can also be used to help anyone trying to elevate their user
 
 #### Using Assistive tools
 
+### Accesibility Tools/Features support
+
+- [HTML5 Accessibility](https://www.html5accessibility.com/)
+- [Screen Reader Aria Support](https://www.powermapper.com/tests/screen-readers/aria/)
+
 ## Testing Accessibility
 
 - [The Paciello Group Assistive Tools Browser Tests](https://thepaciellogroup.github.io/AT-browser-tests/)
