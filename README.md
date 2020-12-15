@@ -69,7 +69,7 @@ Hopefully this list can also be used to help anyone trying to elevate their user
 ## Checklists
 
 - [WebAim WCAG](https://webaim.org/standards/wcag/checklist)
-- [The A11y Project](https://a11yproject.com/checklist.html)c
+- [The A11y Project](https://a11yproject.com/checklist.html)
 - [Vox Media](http://accessibility.voxmedia.com/)
 
 ## Uncategorised Resources
