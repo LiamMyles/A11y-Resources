@@ -85,3 +85,4 @@ Hopefully this list can also be used to help anyone trying to elevate their user
 - [Medium Blog about the Curb Cut Effect](https://medium.com/@mosaicofminds/the-curb-cut-effect-how-making-public-spaces-accessible-to-people-with-disabilities-helps-everyone-d69f24c58785)
 - [ssir - The Curb-Cut Effect](https://ssir.org/articles/entry/the_curb_cut_effect)
 - [Disability activism and curb cuts](https://americanhistory.si.edu/blog/smashing-barriers-access-disability-activism-and-curb-cuts)
+- [Story of the man who helps get the first curb cuts](https://www.independentliving.org/docs3/brown99a.html)
