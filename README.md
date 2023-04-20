@@ -81,6 +81,7 @@ Hopefully this list can also be used to help anyone trying to elevate their user
 - [Nutrition Cards](https://davatron5000.github.io/a11y-nutrition-cards/)
 - [Accessibility for teams](https://accessibility-for-teams.com/)
 - [Web Accessibility Perspectives Videos](https://www.w3.org/WAI/perspective-videos/)
+- [Aria Patterns](https://www.w3.org/WAI/ARIA/apg/patterns/)
 
 ## Curb Cut Effect
 
