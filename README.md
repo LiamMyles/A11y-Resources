@@ -82,6 +82,7 @@ Hopefully this list can also be used to help anyone trying to elevate their user
 - [Accessibility for teams](https://accessibility-for-teams.com/)
 - [Web Accessibility Perspectives Videos](https://www.w3.org/WAI/perspective-videos/)
 - [Aria Patterns](https://www.w3.org/WAI/ARIA/apg/patterns/)
+- [Heading off confusion: When do headings fail WCAG?](https://www.tpgi.com/heading-off-confusion-when-do-headings-fail-wcag/)
 
 ## Curb Cut Effect
 
