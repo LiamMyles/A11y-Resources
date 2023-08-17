@@ -84,6 +84,7 @@ Hopefully this list can also be used to help anyone trying to elevate their user
 - [Aria Patterns](https://www.w3.org/WAI/ARIA/apg/patterns/)
 - [Heading off confusion: When do headings fail WCAG?](https://www.tpgi.com/heading-off-confusion-when-do-headings-fail-wcag/)
 - [Contrast checker tool](https://developer.paciellogroup.com/color-contrast-checker/)
+- [Accessibility Insights Extention](https://accessibilityinsights.io/docs/web/overview/)
 
 ## Curb Cut Effect
 
